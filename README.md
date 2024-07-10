@@ -9,6 +9,21 @@ I've been learning to code for 5 years, after switching careers. I started with 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [maddmax22@yandex.ru](mailto:maddmax22@yandex.ru)
 * 🧠  I'm learning React
+* 💾 Finished projects:
+  
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" height="30" alt="CSS3" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" height="30" alt="HTML5" />
+
+  * [Ono tebe nado](https://github.com/Onfire22/ono-tebe-nado)
+  * [Slozhno sosredotochitsya](https://github.com/Onfire22/slozhno-sosredotochitsya)
+  * [Posmotri v okno](https://github.com/Onfire22/posmotri_v_okno)
+  * [Zakrivayushiy teg](https://github.com/Onfire22/zakrivayuschiy-teg-f) ==> [Web version](https://onfire22.github.io/zakrivayuschiy-teg-f/)
+  * [Mesto](https://github.com/Onfire22/mesto-project-ff)
+ 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="JavaScript" /></a>
+  
+  * [Brain Games](https://github.com/Onfire22/frontend-project-44)
+  * [Diffs Calculator](https://github.com/Onfire22/frontend-project-46)
+  * [Rss aggregator](https://github.com/Onfire22/frontend-project-11) ==> [Web version](https://frontend-project-11-7rbx.vercel.app/)
 
 ### Skills
 
