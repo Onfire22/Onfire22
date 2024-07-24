@@ -4,7 +4,7 @@ Hi 👋 My name is Maxim Necrasov
 Web Developer
 -------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for frontend development. Plan to learn ruby or PHP for the backend.
+I've been learning to code for 1 year, after switching careers. I started with HTML, but have really found a passion for frontend development. Plan to learn Ruby for the backend.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [maddmax22@yandex.ru](mailto:maddmax22@yandex.ru)
