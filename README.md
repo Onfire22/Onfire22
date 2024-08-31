@@ -7,7 +7,7 @@ Web Developer
 I've been learning to code for 1 year, after switching careers. I started with HTML, but have really found a passion for frontend development. Plan to learn Ruby for the backend.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [maddmax22@yandex.ru](mailto:maddmax22@yandex.ru)
+* ✉️  You can contact me at [email](mailto:maddmax22@yandex.ru) or [telegram](https://t.me/maddmax_22)
 * 🧠  I'm learning React
 * 💾 Finished projects:
   
