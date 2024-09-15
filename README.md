@@ -24,6 +24,13 @@ I've been learning to code for 1 year, after switching careers. I started with H
   * [Diffs Calculator](https://github.com/Onfire22/frontend-project-46)
   * [Rss aggregator](https://github.com/Onfire22/frontend-project-11) || [Web version](https://frontend-project-11-7rbx.vercel.app/)
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  * [todo app](https://github.com/Onfire22/todo-react-list)
+  * [food recipes app](https://github.com/Onfire22/react-food-recipes)
+  * [react fortnite shop](https://github.com/Onfire22/Fortnite-Shop)
+  * [react movies](https://github.com/Onfire22/movies)
+
 :star: skills:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
