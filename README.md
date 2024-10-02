@@ -15,17 +15,18 @@ I've been learning to code for 1 year, after switching careers. I started with H
   * [Ono tebe nado](https://github.com/Onfire22/ono-tebe-nado)
   * [Slozhno sosredotochitsya](https://github.com/Onfire22/slozhno-sosredotochitsya)
   * [Posmotri v okno](https://github.com/Onfire22/posmotri_v_okno)
-  * [Zakrivayushiy teg](https://github.com/Onfire22/zakrivayuschiy-teg-f) || [Web version](https://onfire22.github.io/zakrivayuschiy-teg-f/)
+  * [Zakrivayushiy teg](https://github.com/Onfire22/zakrivayuschiy-teg-f) || [Web demo version](https://onfire22.github.io/zakrivayuschiy-teg-f/)
   * [Mesto](https://github.com/Onfire22/mesto-project-ff)
 
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
   * [Brain Games](https://github.com/Onfire22/frontend-project-44)
   * [Diffs Calculator](https://github.com/Onfire22/frontend-project-46)
-  * [Rss aggregator](https://github.com/Onfire22/frontend-project-11) || [Web version](https://frontend-project-11-7rbx.vercel.app/)
+  * [Rss aggregator](https://github.com/Onfire22/frontend-project-11) || [Web demo version](https://frontend-project-11-7rbx.vercel.app/)
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+  * [Online Chat](https://github.com/Onfire22/frontend-project-12/tree/main) || [Web demo version](https://frontend-project-12-vi51.onrender.com/)
   * [todo app](https://github.com/Onfire22/todo-react-list)
   * [food recipes app](https://github.com/Onfire22/react-food-recipes)
   * [react fortnite shop](https://github.com/Onfire22/Fortnite-Shop)
